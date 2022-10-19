@@ -1,40 +1,65 @@
-*{
-    padding: 0;
+body {
     margin: 0;
+    padding: 0;
+    background-color: rgb(245, 203, 155);
 }
 
-.parte1{
-    background-color: white;
-    height: 400px;
-    width: 800px;
-    margin-left: 500px;
-    margin-top: 100px;
+.cabecalho{
+    background-color: rgb(255, 233, 38);
 }
 
-.doe{
-
-    height: 250px;
-    width: 1000px;
-    margin-left: 800px;
-    margin-top: -700px;
-
-  
+.logo img{
+    height: 80px;
+    margin-top: 5px;
+    margin-left: 5px;
 }
 
-.logo{
-  height: 250px;
-  width: 450px;
-  margin-top: -10px;
+.banner img{
+    width: 1600px;
+    height: 600px;
+    margin-top: 20px;
+    margin-left: 160px;
 }
 
-.idioma{
-    margin-left: 800px;
-    margin-top: 10px;
-    height: 100px;
-    width: 280px;
-
+.tudo{
+    display: flex;
 }
 
-.red{
-    background-color: red;
+.pricol img{
+    width: 900px;
+    height: 600px;
+}
+
+.segcol img{
+    width: 900px;
+    height: 600px;
+}
+
+.segcol{
+    margin-left: 100px;
+}
+
+.conhe{
+    text-align: center;
+}
+
+.h9{
+    font-size: 50px;
+}
+
+.h0{
+    font-size: 25px;
+}
+
+
+html, body {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    font-family: "Poppins", "Calibri", "Lucida Grande", sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1.5;
+    color: #111111;
+    background-color: #fff;
 }
