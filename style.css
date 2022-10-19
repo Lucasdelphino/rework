@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(245, 203, 155);
+}
+
+.cabecalho{
+    background-color: rgb(255, 233, 38);
+}
+
+.logo img{
+    height: 80px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.banner img{
+    width: 1600px;
+    height: 600px;
+    margin-top: 20px;
+    margin-left: 160px;
+}
+
+.tudo{
+    display: flex;
+}
+
+.pricol img{
+    width: 900px;
+    height: 600px;
+}
+
+.segcol img{
+    width: 900px;
+    height: 600px;
+}
+
+.segcol{
+    margin-left: 100px;
+}
+
+.conhe{
+    text-align: center;
+}
+
+.h9{
+    font-size: 50px;
+}
+
+.h0{
+    font-size: 25px;
+}
+ 
